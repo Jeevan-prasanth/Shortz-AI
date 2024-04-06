@@ -1,0 +1,64 @@
+
+
+# Switching From iPhone to Android Is Easy. It’s the Aftermath That Stings.
+*By Brian X. Chen*
+
+When I temporarily switched from an iPhone to an Android phone last week, I was bracing for a world of hurt. I’ve owned only Apple phones ever since buying the first-generation iPhone in 2007. And, like many, I’ve bought other Apple products that pair nicely, including AirPods, an Apple Watch, and an iPad.
+
+That type of loyalty is the basis of an antitrust case against Apple brought by the Justice Department, which has accused the company of using monopolistic control over the iPhone to harm competitors and deter customers from switching to other phones. To test that theory, I decided to briefly break up with my iPhone.
+
+I was initially surprised by how simple it was to shift my iPhone data to an Android smartphone made by Google. Just by installing an app on my iPhone that Google made to help people switch, I was able to copy my contacts list, photo album, and calendar into my Google account. Then, presto — all that data appeared on the Android.
+
+I was almost done. After I called my carrier, Verizon, to transfer my phone number to the Android device, my mission was accomplished: I had become an Android convert.
+
+At first, I was happy with my choice — I had upgraded to a fancy Google Pixel phone. But by Day 6, I was ready to switch back.
+
+A bunch of annoyances added up. Even though I could still use most of my Apple products, I started missing my Apple Watch, which requires an iPhone to fully work. For software, I was able to find Android alternatives for all my favorite apps — except for Notes. While switching phones wasn’t technically hard, Apple’s hooks were still in me.
+
+How Apple keeps customers loyal to the iPhone — and whether its practices harm competition — is at the heart of the government’s antitrust suit against the Cupertino giant.
+
+Apple and the Justice Department declined to comment.
+
+In its 88-page complaint, the department said a number of Apple products protected the company’s competitive advantage with the iPhone, including iMessage, Apple’s Wallet app, and the Apple Watch. How hard do those perks really make it to ditch your iPhone? Here’s what I found.
+
+**Losing iMessage**
+For the most part, iPhone users and Android users can communicate with each other easily through email, phone calls, and apps like Slack, but when it comes to text messaging, there is still an obvious split known as the “green bubble versus blue bubble” disparity.
+
+When iPhone users send texts to other iPhones, the messages appear blue and can tap into exclusive perks like an animation of birthday confetti. But if an iPhone user texts an Android user, the bubble turns green, many features break, and photos and videos deteriorate in quality.
+
+Before transferring my phone number to the Pixel phone, I used my iPhone to send iMessages to my blue bubble comrades warning them that our conversations would soon turn green. “Ew!” a friend replied. But after many remarks made in jest, no one protested, and I soldiered on.
+
+Next, I had to detach my phone number from iMessage on Apple’s website to ensure that my text messages would stop going through Apple’s servers and arrive on my phone. Unless I did this, I would not receive texts from other iPhones. Eventually, the conversations turned green. I prepared myself for humiliation.
+
+But no one gave me a hard time or excluded me. I did notice, however, that many friends had suddenly stopped texting me photos, perhaps because they knew the images would no longer look as good.
+
+For years, some of my closest friends have texted me only through Signal, the third-party messaging app with strong privacy protections and many of the same features as iMessage. Signal is also available on Android, preserving that tradition.
+
+Apple has announced that later this year, it will improve texts between iPhone and Android users by adopting rich communication services, a standard that Google and others integrated into their messaging apps years ago. Texts sent between iPhones and Androids will remain green, but images and videos will be higher quality.
+
+**Losing Apple Wallet**
+For iPhones, the go-to app for making mobile payments in stores is Apple Wallet, and for Android users, the equivalent app is Google Wallet. The experience of using each wallet app was identical: I loaded up my credit cards and Clipper card for the Bay Area’s rapid transit service.
+
+The Justice Department’s criticism of Apple Wallet centers on how Apple gives only its app access to the iPhone’s payment chip, preventing competing wallet services from using that chip to make payments. But the way Apple designed its Wallet app had no impact on my ability to switch to an Android.
+
+**Losing the Apple Watch and other products**
+For an iPhone owner, a main incentive to buy more Apple products is that they work seamlessly together. A Mac laptop, for instance, uses many of the same apps for messaging, note taking, and reminders as the iPhone, and the data is synchronized among the devices with Apple’s iCloud. In theory, the more invested you are in Apple’s ecosystem — and the
+
+ more that Apple restricts its products from working with competing devices, the Justice Department says — the tougher it is to switch from an iPhone.
+
+After I switched to an Android phone, my feelings about using other Apple products ranged from moderate annoyance to deep frustration:
+
+- The iPad worked independently from the iPhone, but I could no longer see my text messages on the tablet anymore. This was minor because I don’t do much texting on my iPad.
+
+- My AirPods Pro were OK — they connected quickly with the Pixel for playing music. But the downside is that the AirPods use Adaptive EQ, a technology that tunes sound quality to the shape of your ear, and it works only with software on the iPhone. So audio doesn’t sound as good.
+
+- I could not use my Android phone to locate my AirTags, the tiny Apple trackers I use to find my wallet and keys, on a map. But when my AirTags were in my pocket, the Android phone showed an alert that an “unknown tracker” was moving around with me, a safety feature for combating stalkers.
+
+- The Apple Watch requires an iPhone to set up, but its fitness tracking can work independently. Because I had already set up my watch, I could continue to use it at the gym alongside my Android phone. But I could no longer see my detailed workout data.
+
+I ran into other annoyances not specifically called out in the lawsuit and finally reached peak frustration when I tried to find a replacement for Apple’s Notes, which I use regularly on my Mac, iPad, and phone for work and personal errands. I used alternatives but didn’t like them, and combined with the aforementioned issues, it was all too much.
+
+**The upshot: Switching is easy, until it’s not**
+My experience isn’t universal. Some people would care more than others about how certain Apple products would change if they switched phones. Younger people would probably care a lot about lacking iMessage in schools, where a green bubble has been known to be an invitation for mockery and exclusion, according to education experts. Parents who use AirTags to track their children would view losing access to those as a deal breaker.
+
+The upshot from this experiment is that while it’s not technically hard to switch to a different phone, there are plenty of things that could make you regret it.
