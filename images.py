@@ -12,7 +12,7 @@ USER_ID = "openai"
 APP_ID = "dall-e"
 # Change these to whatever model and text URL you want to use
 MODEL_ID = "DALL-E"
-MODEL_VERSION_ID = "f1756115761940bd820e61383de79351"
+MODEL_VERSION_ID = ""
 
 channel = ClarifaiChannel.get_grpc_channel()
 stub = service_pb2_grpc.V2Stub(channel)
