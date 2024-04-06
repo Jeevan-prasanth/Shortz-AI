@@ -5,7 +5,7 @@ import base64
 import os
 
 # Your PAT (Personal Access Token) can be found in the portal under Authentication
-PAT = "adde818caa7d4daf9786dd350ed3faba"
+PAT = ""
 # Specify the correct user_id/app_id pairings
 # Since you're making inferences outside your app's scope
 USER_ID = "openai"
