@@ -9,7 +9,7 @@ import os
 import narration
 import images
 import video
-api_key = "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"
+api_key = ""
 client = OpenAI(api_key=api_key)
 
 if len(sys.argv) < 2:
