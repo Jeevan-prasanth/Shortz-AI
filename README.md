@@ -1,4 +1,4 @@
-# Shortz-AI
+# Shortz-AI  (In Progress)
 
 ---
 
